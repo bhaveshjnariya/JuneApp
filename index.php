@@ -1,2 +1,4 @@
 <?php
-echo $x = 'Welcome to the Git and Github essentials for web developers repository';
+$x = 'Welcome to the Git and Github essentials for web developers repository';
+
+echo '<h2>'.$x.'</h2>';
